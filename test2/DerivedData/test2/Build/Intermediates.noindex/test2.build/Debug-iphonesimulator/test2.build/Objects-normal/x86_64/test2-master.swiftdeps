@@ -1,6 +1,6 @@
 version: "Apple Swift version 4.0 (swiftlang-900.0.65 clang-900.0.37)"
 options: "b80761bcfed22daae36b5071d3fc2f07"
-build_time: [1507036394, 101972000]
+build_time: [1507038279, 184672000]
 inputs:
-  "/Users/Worker/Desktop/GRIBOV/test_iOS2/iOS/test2/test2/ViewController.swift": [1507036391, 0]
+  "/Users/Worker/Desktop/GRIBOV/test_iOS2/iOS/test2/test2/ViewController.swift": [1507038278, 0]
   "/Users/Worker/Desktop/GRIBOV/test_iOS2/iOS/test2/test2/AppDelegate.swift": [1507036391, 0]
